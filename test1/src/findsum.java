@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.Random;
 public class findsum {
 	public static void main(String[] args) {
 //		summer(100);
@@ -11,7 +10,7 @@ public class findsum {
 		System.out.println("Enter a value less than 100");
 	}
 	else {
-		System.out.print("The random number is : ");
+		System.out.print("Huh! The random number is : ");
 		rndm(userinput);
 		}
 	}
